@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+hi humans!
+Dazhe here,I learn C program.
